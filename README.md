@@ -9,7 +9,7 @@ It uses data from imdb.json
 1. create a virtualenv 
 2. virtualenv myenv
 3. source myenv/bin/activate
-4. pip install -r reuqirements.txt
+4. pip install -r requirements.txt
 5  ./manage.py migrate
 6. ./manage.py runserver 7001
 7. ./manage.py populate_movies
